@@ -247,7 +247,7 @@ eliminate this limit.
 ### F.A.Q.
 __What the hell does GSH stand for?__
 
-GSH stand's for Gary's Shell. Mostly just because I didn't know what to call
+GSH stands for Gary's Shell. Mostly just because I didn't know what to call
 it and it's close to DSH. Plus who doesn't want a piece of software named
 after themselves.
 
